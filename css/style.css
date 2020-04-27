@@ -30,7 +30,7 @@ li a:hover {
 }
 @font-face {
    font-family: myFirstFont;
-   src: url(/fonts/roboto_thin.ttf);
+   src: url(/fonts/Roboto-Thin.ttf);
 }
 
 * {
