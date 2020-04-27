@@ -2,7 +2,8 @@
     padding-top: 15px;
     background-color: #15d125;
     padding-bottom: 15px;
-    color: #ffffff
+    color: #ffffff;
+    font-family: Roboto-Thin;
 }
 
 ul {
@@ -10,7 +11,8 @@ ul {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: #333333
+  background-color: #333333;
+    font-family: Roboto-Bold;
 }
 
 li {
@@ -23,16 +25,9 @@ li a {
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
+
 }
 
 li a:hover {
   background-color: #111;
-}
-@font-face {
-   font-family: myFirstFont;
-   src: url(../fonts/Roboto-Thin.ttf);
-}
-
-* {
-   font-family: myFirstFont;
 }
