@@ -28,3 +28,11 @@ li a {
 li a:hover {
   background-color: #111;
 }
+@font-face {
+   font-family: myFirstFont;
+   src: url(sansation_light.woff);
+}
+
+* {
+   font-family: myFirstFont;
+}
